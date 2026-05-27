@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<img width="1545" height="1999" alt="resume" src="https://github.com/tysonthomp/tysonthomp.github.io/blob/master/images/resume.png" />
+<img width="1545" height="1999" alt="resume" src="https://github.com/user-attachments/assets/4c5cd989-3430-4a50-8726-f05e08f6fa27" />
