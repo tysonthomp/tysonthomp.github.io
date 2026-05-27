@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me:
+## Information:
 I am a student at Richland High School currently enrolled in AP Computer Science classes and wanting to push these skills to develop a career in them. 
 I am also a part of the AVID program here at RHS and plan to use it in order to help apply to multiple colleges and get assistance on obtaining scholarships and grants through the AVID program. 
 I like to play video games on the side as well as play basketball. I'm fairly good at Javascript, HTML and CSS when it comes to coding skills.
