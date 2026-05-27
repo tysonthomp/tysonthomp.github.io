@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tyson Thompson-Materne"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "placeholder in config"
+  bio              : "placeholder in config, playing around in the code editor rn"
   location         : "Richland, WA"
   employer         : "Richland High School"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
