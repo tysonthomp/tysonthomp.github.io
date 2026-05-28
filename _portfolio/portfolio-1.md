@@ -7,5 +7,5 @@ collection: portfolio
 This is my favorite project out of all of the ones that I have created, and it was used for my Practice PT for my AP exam.
 
 <video width="640" height="360" controls>
-  <source src="atarishowcase.webm" type="video/webm">
+  <source src="_portfolio/atarishowcase.webm">
 </video>
