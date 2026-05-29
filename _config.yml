@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tyson Thompson-Materne"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "placeholder in config, playing around in the code editor rn"
+  bio              : 
   location         : "Richland, WA"
   employer         : "Richland High School"
   uri              : # URL
