@@ -17,7 +17,7 @@ I like to play video games on the side as well as play basketball. I'm fairly go
 - Basic HTML and CSS
 - Communication and Teamwork
 - Problem Solving
-
+- Spanish Reading/Writing and Simple Conversational
 
 ## Career Goals:
 Using AVID I would like to apply for scholarships and college to pursue a career in software engineering. I do not know what college I specifically want to enroll at but will figure it out over time and as I look at more and more colleges. After schooling I would like to work either individually or under a software firm with other engineers.
